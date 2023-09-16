@@ -1,0 +1,4 @@
+$secret = "FOEIUWGHFEEUHOFUOIU";
+
+
+Access granted. The password for natas7 is 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9 
